@@ -1,5 +1,5 @@
 *.sw[a-z]
-.lock*
-yelp_dataset_challenge_round_9/
+.~lock*
+yelp_dataset_challenge_round9/
 .ipynb_checkpoints
 *shortened.csv
