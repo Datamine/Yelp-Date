@@ -1,4 +1,5 @@
-*.swp
-*.swo
-*.swa
-dataset/
+*.sw[a-z]
+.lock*
+yelp_dataset_challenge_round_9/
+.ipynb_checkpoints
+*shortened.csv
